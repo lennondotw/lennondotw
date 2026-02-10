@@ -9,7 +9,7 @@
 - 📺 Worked as SDET at **bilibili** and Specialist at **Apple**
 - 💻 Apple user, but also loves **Google Pixel** and the Android ecosystem
 - 🎹 I love **music** and like to build stuffs with code
-- 💬 Welcome to chat with me on [Telegram](https://t.me/reekystive) =w=
+- 💬 Welcome to chat with me on [Telegram](https://t.me/lennondotw) =w=
 
 ### My Coding Time
 
