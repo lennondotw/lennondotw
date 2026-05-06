@@ -29,12 +29,6 @@ JavaScript           50 hrs 12 mins        █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a href="#">
-    <img alt="My skill icons" src="https://skillicons.dev/icons?i=cpp,py,js,ts,go,kotlin,nodejs,deno,react,vue,electron,docker,kubernetes,git,linux,vim,vscode,nginx,mongodb,postgres,aws,cloudflare,arduino,selenium,tensorflow,pytorch,figma,blender,ableton,ae" />
-  </a>
-</p>
-
 <a href="#">
   <img width="300px" align="left" alt="Profile image" src="https://user-images.githubusercontent.com/26853900/153685219-56022f94-a2ba-4e10-bf61-34213161ba00.png" />
 </a>
