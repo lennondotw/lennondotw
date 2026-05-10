@@ -18,13 +18,13 @@ _Below is my coding activities in the past year. [See details here](https://waka
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,157 hrs 44 mins
+Total Time: 1,173 hrs 55 mins
 
-TypeScript           682 hrs 6 mins        █████████████▒░░░░░░░░░░░   53.06 %
-JSON                 138 hrs 39 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Other                127 hrs 44 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-YAML                 61 hrs 59 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-JavaScript           50 hrs 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TypeScript           690 hrs 17 mins       █████████████▒░░░░░░░░░░░   52.72 %
+JSON                 138 hrs 25 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+Other                135 hrs 17 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+YAML                 62 hrs 5 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Markdown             54 hrs 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
